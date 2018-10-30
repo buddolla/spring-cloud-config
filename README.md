@@ -7,4 +7,6 @@ In clint the application.name should be the property file name in the git if the
 if application.properties its been picked up by default with out name
 
 for 2.0 actuator end points are with context path   actuator/refresh
+refresh is a post end point
+
 for incliuding end poitns of actuator management.endpoints.web.exposure.include=*
